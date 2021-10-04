@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @autonomous019
-- 👀 I’m interested in neurocognitive science, brain computer interfaces, cybersecurity, programming, AI
+- 👀 I’m interested in neurocognitive science, brain computer interfaces, cybersecurity, programming, AI Looking for Investors
+for my medical device as desckribed in <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity">Cybersecurity Repository</a>
 - 🌱 I’m currently learning angular momentum and entanglement science
 - 💞️ I’m looking to collaborate on brain computer interface using ahronov-bohm effect
 - 📫 How to reac me: macciarain@protonmail.com text/mobile: 330-238-3080 in America, in Ireland 353...
