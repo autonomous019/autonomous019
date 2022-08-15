@@ -3,7 +3,7 @@
 for my medical device as described in <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity">Cybersecurity Repository</a>. I am currently also working with Machine Learning using XGBoost (boosted decision trees) for High Energy Physics, specifically detection of Higgs Boson signals, and Star Type Classification.
 - 🌱 I’m currently learning angular momentum and entanglement science
 - 💞️ I’m looking to collaborate on brain computer interface using ahronov-bohm effect
-- 📫 How to reach me: macciarain@protonmail.com text/mobile: 330-238-3080 in America, in Ireland 353 085 225 7081. Currently resident in Galway, Ireland. I am eligible to work in the United States, can work remotely, always looking for new projects. 
+- 📫 How to reach me: macciarain@protonmail.com text/mobile: +1 330-238-3080 in America, in Ireland +353 085 225 7081. Currently resident in Galway, Ireland. I am eligible to work in the United States, can work remotely, always looking for new projects. 
 
 <!---
 autonomous019/autonomous019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
