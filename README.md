@@ -5,6 +5,8 @@ for my medical device as described in <a href="https://github.com/autonomous019/
 - 💞️ I’m looking to collaborate on brain computer interface using ahronov-bohm effect
 - 📫 How to reach me: macciarain@protonmail.com text/mobile: +1 330-238-3080 in America, in Ireland +353 085 225 7081. Currently resident in Galway, Ireland. I am eligible to work in the United States, can work remotely, always looking for new projects. 
 
+find me on Hugging Face: <a href="https://huggingface.co/autonomous019">https://huggingface.co/autonomous019</a>
+
 <!---
 autonomous019/autonomous019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
