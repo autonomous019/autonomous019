@@ -5,6 +5,7 @@ for my medical device as described in <a href="https://github.com/autonomous019/
 - 💞️ I’m looking to collaborate on brain computer interface using ahronov-bohm effect
 - 📫 How to reach me: macciarain@protonmail.com text/mobile: +1 330-238-3080 in America, in Ireland +353 085 225 7081. Currently resident in Galway, Ireland. I am eligible to work in the United States, can work remotely, always looking for new projects. 
 
+NLP ML is of interest to me, see <a href="https://github.com/autonomous019/NLP-Files">https://github.com/autonomous019/NLP-Files</a>
 find me on Hugging Face: <a href="https://huggingface.co/autonomous019">https://huggingface.co/autonomous019</a>
 
 <!---
