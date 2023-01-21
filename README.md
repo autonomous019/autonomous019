@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @autonomous019
+- 👋 Hi, I’m @autonomous019, check me out at <a href="https://feirmoirsonrai.me">https://feirmoirsonrai.me</a>
 - 👀 I’m interested in neurocognitive science, brain computer interfaces, cybersecurity, programming, AI Looking for Investors
 for my medical device as described in <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity">Cybersecurity Repository</a>. I am currently also working with Machine Learning using XGBoost (boosted decision trees) for High Energy Physics, specifically detection of Higgs Boson signals, and <a href="https://github.com/autonomous019/star_classifier_flask/tree/master">Star Type Classification</a>. I started out as a Graphic Designer, then was a front end developer (html/js/css). Then learned backend technologies such as PHP, Perl, Python, Ruby, NodeJS. 
 - 🌱 I’m currently learning angular momentum and entanglement science. Recently I completed work on my book, 'Battlespace of Mind: AI and Cybernetics in Information Warfare' which is to be released in Feb. 2023 through Trine Day Publishers. 
