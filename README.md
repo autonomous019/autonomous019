@@ -6,6 +6,7 @@ for my medical device as described in <a href="https://github.com/autonomous019/
 - 📫 How to reach me: macciarain@protonmail.com text/mobile: +1 330-238-3080 in America, in Ireland +353 083 141 4044. Currently resident in Galway, Ireland. I am eligib✨ le to work in the United States, can work remotely, always looking for new projects. 
 - ✨ NLP ML is of interest to me, see <a href="https://github.com/autonomous019/NLP-Files">https://github.com/autonomous019/NLP-Files</a>
 find me on Hugging Face: <a href="https://huggingface.co/autonomous019">https://huggingface.co/autonomous019</a>
+- Hobby: Writing books, such as on Islamic Mysticism, <a href="https://www.amazon.com/dp/B0BVD3NGJQ?ref_=pe_3052080_397514860">Cosmos as Meditation</a>
 
 <!---
 autonomous019/autonomous019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
