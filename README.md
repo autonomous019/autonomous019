@@ -8,6 +8,12 @@ for my medical device as described in <a href="https://github.com/autonomous019/
 find me on Hugging Face: <a href="https://huggingface.co/autonomous019">https://huggingface.co/autonomous019</a>
 - Hobby: Writing books, such as on Islamic Mysticism, <a href="https://www.amazon.com/dp/B0BVD3NGJQ?ref_=pe_3052080_397514860">Cosmos as Meditation</a> and books on technology such as <a href="https://www.amazon.com/Play-AI-Machine-Learning-Video/dp/B0BW2X9B34/ref=sr_1_6?crid=6QKFHQNPXM9Y&keywords=michael+mccarron&qid=1679760979&sprefix=michael+mccarron%2Caps%2C197&sr=8-6">Play AI: Machine Learning in Video Games</a> Recently I completed work on my book, <a href="https://www.trineday.com/products/battle-space-of-mind-ai-and-cybernetics-in-information-warfare">'Battlespace of Mind: AI and Cybernetics in Information Warfare'</a> (2024) through Trine Day Publishers, <a href="https://drive.google.com/file/d/142VRVDXCo5R4R3C4MQXszDbXOZo4y2Vm/view?usp=sharing">free download here</a>. My latest work, pre-pub, is a popularization of AI Cybersecurity and catastrophic failure modes of AI, it is called <a href="https://github.com/autonomous019/dark-control/tree/main">"Dark Control: AI and Humanities End" (2026)</a>
 
+
+- Creative Writing, Lyrics and Screen Plays:
+  Music and Lyrics: <a href="https://www.youtube.com/playlist?list=PLnRK_n3FKKrDNasCIVG2JZj0jfGBisw5-">Evangelism Spoken Word and Music</a>
+  
+  Science Fiction <a href="https://www.youtube.com/playlist?list=PLnRK_n3FKKrA3dYciL2dyS26FKfYhXbiG">Catching Out: Multimedia Storytelling</a>
+
 <!---
 autonomous019/autonomous019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
