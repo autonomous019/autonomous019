@@ -10,10 +10,9 @@ find me on Hugging Face: <a href="https://huggingface.co/autonomous019">https://
 
   <a href="https://www.amazon.com/Play-AI-Machine-Learning-Video/dp/B0BW2X9B34/ref=sr_1_6?crid=6QKFHQNPXM9Y&keywords=michael+mccarron&qid=1679760979&sprefix=michael+mccarron%2Caps%2C197&sr=8-6">Play AI: Machine Learning in Video Games</a>
 
- <a href="https://www.trineday.com/products/battle-space-of-mind-ai-and-cybernetics-in-information-warfare">'Battlespace of Mind: AI and Cybernetics in Information Warfare'</a> (2024) through Trine Day Publishers,
- <a href="https://drive.google.com/file/d/142VRVDXCo5R4R3C4MQXszDbXOZo4y2Vm/view?usp=sharing">free download here</a>.
+  <a href="https://www.trineday.com/products/battle-space-of-mind-ai-and-cybernetics-in-information-warfare">'Battlespace of Mind: AI and Cybernetics in Information Warfare'</a> (2024) through Trine Day Publishers,<a href="https://drive.google.com/file/d/142VRVDXCo5R4R3C4MQXszDbXOZo4y2Vm/view?usp=sharing">free download here</a>.
  
- My latest work, pre-pub, is a popularization of AI Cybersecurity and catastrophic failure modes of AI, it is called <a href="https://github.com/autonomous019/dark-control/tree/main">"Dark Control: AI and Humanities End" (2026)</a>
+   My latest work, pre-pub, is a popularization of AI Cybersecurity and catastrophic failure modes of AI, it is called <a href="https://github.com/autonomous019/dark-control/tree/main">"Dark Control: AI and Humanities End" (2026)</a>
 
 
 - Creative Writing, Lyrics and Screen Plays:
