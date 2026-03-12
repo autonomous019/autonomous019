@@ -15,7 +15,7 @@ find me on Hugging Face: <a href="https://huggingface.co/autonomous019">https://
    My latest work, pre-pub, is a popularization of AI Cybersecurity and catastrophic failure modes of AI, it is called <a href="https://github.com/autonomous019/dark-control/tree/main">"Dark Control: AI and Humanities End" (2026)</a>
 
 
-- Podcast: see my podcast on AI and Cybersecurity, updated each weekend with latest news about AI Cybersecurity: <a href="[https://www.youtube.com/playlist?list=PLnRK_n3FKKrDTJc6olEE9UIf0DgpvkoYb](https://www.youtube.com/playlist?list=PLnRK_n3FKKrAsquySOmOQ3oaWHD5VGSNS)">Dark Control Update</a>
+- Podcast: see my podcast on AI and Cybersecurity, updated each weekend with latest news about AI Cybersecurity: <a href="https://www.youtube.com/playlist?list=PLnRK_n3FKKrDTJc6olEE9UIf0DgpvkoYb">Dark Control Update</a>
 
 - Creative Writing, Lyrics and Screen Plays:
   
