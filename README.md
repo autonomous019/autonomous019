@@ -23,7 +23,7 @@ find me on Hugging Face: <a href="https://huggingface.co/autonomous019">https://
   
   Science Fiction <a href="https://www.youtube.com/playlist?list=PLnRK_n3FKKrA3dYciL2dyS26FKfYhXbiG">Catching Out: Multimedia Storytelling</a>
 
-  Broadway Musical Compositions: <a href="https://suno.com/playlist/e77dac75-743e-4e69-a1e3-e86725923b1f">Hologram</a> time travelling anarchists try to stop the Nazi regime. The Turn, (under composition) Sufi mystics and Jewish mystics struggle for freedom from the Clergy. The Boseliel Family Orchestra, the tale of a family split by a border and identity as First Nation and White European as the USA takes control of indigenous lands once administered by Canada.  
+  Broadway Musical Compositions: <a href="https://suno.com/playlist/e77dac75-743e-4e69-a1e3-e86725923b1f">Hologram</a> time travelling anarchists try to stop the Nazi regime. The Turn, (under composition) Sufi mystics and Jewish mystics struggle for freedom from the Clergy, with exotic middle eastern harmonies. The Boseliel Family Orchestra, the tale of a family split by a border and identity as First Nation and White European as the USA takes control of indigenous lands once administered by Canada, a Métis musical extravaganza.  
 
   Islamic Mysticism, <a href="https://www.amazon.com/dp/B0BVD3NGJQ?ref_=pe_3052080_397514860">Cosmos as Meditation</a>
 
