@@ -23,6 +23,8 @@ find me on Hugging Face: <a href="https://huggingface.co/autonomous019">https://
   
   Science Fiction <a href="https://www.youtube.com/playlist?list=PLnRK_n3FKKrA3dYciL2dyS26FKfYhXbiG">Catching Out: Multimedia Storytelling</a>
 
+  Broadway Musical Compositions: <a href="https://suno.com/playlist/e77dac75-743e-4e69-a1e3-e86725923b1f">Hologram</a> time travelling anarchists try to stop the Nazi regime.
+
   Islamic Mysticism, <a href="https://www.amazon.com/dp/B0BVD3NGJQ?ref_=pe_3052080_397514860">Cosmos as Meditation</a>
 
 <!---
