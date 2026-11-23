@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @autonomous019
 - 👀 I’m interested in neurocognitive science, brain computer interfaces, cybersecurity, programming, AI Looking for Investors
 for my medical device as described in <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity">Cybersecurity Repository</a>. Currently, I am developing a non-invasive non-contact <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity/tree/main">Brain Computer Interface using the Aharonov-Bohm Effect</a> to sense brain activity. I started out as a Artist and Graphic Designer, then was a front end developer (html/js/css). Then learned backend technologies such as PHP, Perl, Python, Ruby, NodeJS, then learned Data Science and Machine Learning which I use in my trading game application, <a href="https://www.ceilli.com">Ceilli.com</a>, which is built using Python and Sveltekit Framework on the front-end UI. 
-- 🌱 I’m currently learning angular momentum and entanglement science.
 - 💞️ I’m looking to collaborate on brain computer interface using ahronov-bohm effect
 - 📫 How to reach me: macciarain@protonmail.com text/mobile: +1 330-238-3080 in America. I am currently living and researching in the Seattle Area (USA). I can work remotely, always looking for new projects. 
 - ✨ NLP ML is of interest to me, see <a href="https://github.com/autonomous019/NLP-Files">https://github.com/autonomous019/NLP-Files</a>
